@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Supalai Tech Recruitment Automation",
+  "description": "An AI-powered recruitment orchestration platform integrating Selenium, LangChain, and LLMs for automated job posting, resume parsing, and candidate workflow management.",
+  "requestFramePermissions": []
+}
