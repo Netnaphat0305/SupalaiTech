@@ -7,6 +7,10 @@
 
 🏆 **Honorable Mention Award** - 2025 Campus to Career Tech Experience Program (C2C TechX), Supalai Public Company Limited
 
+
+📄 **[สไลด์นำเสนอโปรเจกต์ Supalai HR Agent (PDF)](https://github.com/user-attachments/files/29913709/hackathonc2c_supalai.hr.agent_NPX.pdf)**
+
+
 ## 📌 Overview
 ระบบจัดการและคัดกรองใบสมัครอัตโนมัติที่ออกแบบมาเพื่อแก้ไขปัญหาการทำงานซ้ำซ้อน และความล่าช้าในกระบวนการสรรหาบุคลากรของ HR โดยระบบจะช่วยจัดการใบสมัครจำนวนมากที่หลั่งไหลมาจากหลากหลายช่องทางเข้าสู่ระบบส่วนกลางอย่างมีประสิทธิภาพ
 
